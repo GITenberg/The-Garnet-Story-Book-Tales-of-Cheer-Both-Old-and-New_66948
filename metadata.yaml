@@ -1,0 +1,34 @@
+_repo: The-Garnet-Story-Book-Tales-of-Cheer-Both-Old-and-New_66948
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Skinner, Eleanor L. (Eleanor Louise)
+    alias: Skinner, Eleanor Louise
+    birthdate: 1872
+    gutenberg_agent_id: '37116'
+    url: http://www.gutenberg.org/2009/agents/37116
+  - agent_name: Skinner, Ada M. (Ada Maria)
+    alias: Skinner, Ada Maria
+    birthdate: 1878
+    gutenberg_agent_id: '1679'
+    url: http://www.gutenberg.org/2009/agents/1679
+description: ''
+gutenberg_issued: '2021-12-16'
+identifiers:
+  gutenberg: '66948'
+language: en
+pgterms:marc904: https://archive.org/details/garnetstorybook00skin/page/n5/mode/2up
+pgterms:marc905: 20210406110942skinner
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Charlene Taylor, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Duffield and Company,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Garnet Story Book: Tales of Cheer Both Old and New'
+url: http://www.gutenberg.org/ebooks/66948
